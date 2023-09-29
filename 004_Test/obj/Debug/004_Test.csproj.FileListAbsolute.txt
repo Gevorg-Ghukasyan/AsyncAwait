@@ -1,0 +1,8 @@
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\bin\Debug\004_Test.exe.config
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\bin\Debug\004_Test.exe
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\bin\Debug\004_Test.pdb
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\obj\Debug\004_Test.csproj.AssemblyReference.cache
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\obj\Debug\004_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\obj\Debug\004_Test.csproj.CoreCompileInputs.cache
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\obj\Debug\004_Test.exe
+C:\Users\mic-001\source\repos\AsyncAwait\004_Test\obj\Debug\004_Test.pdb

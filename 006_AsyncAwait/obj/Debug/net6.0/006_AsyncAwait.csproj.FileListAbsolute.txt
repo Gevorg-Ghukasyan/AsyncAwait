@@ -1,0 +1,15 @@
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.AssemblyInfo.cs
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\bin\Debug\net6.0\006_AsyncAwait.exe
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\bin\Debug\net6.0\006_AsyncAwait.deps.json
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\bin\Debug\net6.0\006_AsyncAwait.runtimeconfig.json
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\bin\Debug\net6.0\006_AsyncAwait.dll
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\bin\Debug\net6.0\006_AsyncAwait.pdb
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.dll
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\refint\006_AsyncAwait.dll
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.pdb
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\006_AsyncAwait.genruntimeconfig.cache
+C:\Users\mic-001\source\repos\AsyncAwait\006_AsyncAwait\obj\Debug\net6.0\ref\006_AsyncAwait.dll
